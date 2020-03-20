@@ -2,7 +2,7 @@
 """
 Created on Tue Sep  4 05:06:37 2018
 
-@author: console
+author: Bruno Caldas
 """
 
 from dolfin import *
