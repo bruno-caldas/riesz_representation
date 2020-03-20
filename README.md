@@ -8,6 +8,8 @@ Pyadjoint > 2019.1.0
 
 ROL > 0.0.14
 
+For l2, I have to fix the file: /usr/lib/python3.8/site-packages/fenics_adjoint/types/compat.py in the vector.vector()
+
 ## How to use
 ### Gradient representation
 In order to view the gradient representation in l2 and L2 for different size meshes:
